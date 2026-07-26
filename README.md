@@ -4,7 +4,7 @@
 
 ---
 /*This file mainly contains all the NeetCode problems I have solved.*/
- 
+---
 Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
 
 - **Auto-commit toggle** — enable or disable automatic commits on submission
